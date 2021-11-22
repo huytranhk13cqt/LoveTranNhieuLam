@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+div {
+	background: rgb(20, 100, 200);
+	width: 100px;
+	height: 100px;
+	margin-top: 50px;
+	margin-left: 45%;
+	border-radius: 50%;
+	border: 2px solid black;
+}
+.btntest {
+	background: rgb(40, 147, 248);
+	width: 80px;
+	height: 80px;
+	margin-left: 10%;
+	margin-top: 10px;
+	border-radius: 50%;
+	border: 2px solid rgb(245, 231, 245);
+}
+
+i {
+	margin-bottom: 5px;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
